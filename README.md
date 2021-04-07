@@ -22,5 +22,5 @@
 
 ### Output Screenshot
 
-![ScreenShot](./main/source/output.png)
+![ScreenShot](./source/output.png)
 
