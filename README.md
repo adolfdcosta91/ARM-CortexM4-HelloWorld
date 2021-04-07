@@ -17,10 +17,10 @@
 
 ### Board
 
-![Board](./blob/main/source/STM32F407G-DISC1.jpg)
+![Board](../blob/main/source/STM32F407G-DISC1.jpg)
 
 
 ### Output Screenshot
 
-![ScreenShot](./blob/main/source/output.png)
+![ScreenShot](../blob/main/source/output.png)
 
