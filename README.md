@@ -17,10 +17,10 @@
 
 ### Board
 
-![Board](https://github.com/adolfdcosta91/ARM-CortexM4-HelloWorld/tree/main/source/STM32F407G-DISC1.jpg)
+![Board](https://github.com/adolfdcosta91/ARM-CortexM4-HelloWorld/blob/main/source/STM32F407G-DISC1.jpg)
 
 
 ### Output Screenshot
 
-![ScreenShot](https://github.com/adolfdcosta91/ARM-CortexM4-HelloWorld/tree/main/source/output.png)
+![ScreenShot](https://github.com/adolfdcosta91/ARM-CortexM4-HelloWorld/blob/main/source/output.png)
 
