@@ -19,6 +19,9 @@
 
 ![Board](./source/STM32F407G-DISC1.jpg)
 
+### Output 
+
+* Output will display "Hello Adolf" on console.
 
 ### Output Screenshot
 
